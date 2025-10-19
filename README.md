@@ -2,7 +2,7 @@
 
 A classic Snake game built using Java Swing.
 
-![Snake Game](snakegame.jpeg)
+![Snake Game](snake.jpeg)
 
 ## How to Run
 
